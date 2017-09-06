@@ -37,6 +37,7 @@ try
     
     switch ($branchName)
     {
+        "dev/kevinh-ms/optprof" { }
         "dev15.4.x" { }
         "master" { }
         default
